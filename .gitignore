@@ -1,0 +1,8 @@
+*.txt
+*.pdf
+*.xlsx
+*.csv
+*.bak
+.venv
+.env
+*.pyc
